@@ -1,0 +1,24 @@
+# Environment and credentials
+.env
+credentials.json
+token.json
+
+# Intermediate files
+.tmp/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
